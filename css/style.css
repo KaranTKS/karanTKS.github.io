@@ -6632,7 +6632,7 @@ button.bg-dark:focus {
 
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important; }
+  margin-bottom: 1rem !important; }
 
 .ml-4,
 .mx-4 {
@@ -6734,7 +6734,7 @@ button.bg-dark:focus {
   padding-left: 1rem !important; }
 
 .p-4 {
-  padding: 1.5rem !important; }
+  padding: 2.0rem !important; }
 
 .pt-4,
 .py-4 {
@@ -8135,7 +8135,7 @@ a.text-dark:hover, a.text-dark:focus {
 body {
   font-family: "Poppins", Arial, sans-serif;
   background: #fff;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.8;
   font-weight: 400;
   color: #999999; }
